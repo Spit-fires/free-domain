@@ -267,6 +267,7 @@ i: [ns1.desec.io, ns2.desec.org] # Register i.wip.la
 now: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register now.wip.la
 nows: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register nows.wip.la
 micro: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register micro.wip.la
+sitius: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net] # Register sitius.wip.la
 mx: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register mx.wip.la
 px: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
 shopy: [bingo.ns.cloudflare.com, ruben.ns.cloudflare.com]
